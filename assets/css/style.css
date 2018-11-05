@@ -4,3 +4,14 @@
     background-image: url("../images/gravel.png");
     background-repeat: repeat;
 }
+
+.thumbnail {
+    position: relative;
+}
+
+.X-banner {
+    bottom: 20px;
+    position: absolute;
+    width: 100%;
+    opacity: .9;
+}
